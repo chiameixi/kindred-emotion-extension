@@ -1,0 +1,27 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_7_217" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+<circle cx="100" cy="100" r="100" fill="#B0E1DB"/>
+</mask>
+<g mask="url(#mask0_7_217)">
+<g filter="url(#filter0_i_7_217)">
+<circle cx="100" cy="100" r="100" fill="#B0E1DB"/>
+</g>
+<circle cx="88" cy="214" r="55" fill="#F4EBC3"/>
+<circle cx="45" cy="189" r="55" fill="#FFC3DE"/>
+<path d="M61.7627 101.899C62.3344 104.032 61.0681 106.226 58.9343 106.798C56.8004 107.369 54.607 106.103 54.0353 103.969C53.4635 101.835 54.7298 99.642 56.8637 99.0702C58.9976 98.4984 61.1909 99.7648 61.7627 101.899Z" fill="black"/>
+<path d="M147.73 78.8637C148.302 80.9976 147.036 83.1909 144.902 83.7627C142.768 84.3345 140.574 83.0681 140.003 80.9343C139.431 78.8004 140.697 76.6071 142.831 76.0353C144.965 75.4635 147.158 76.7299 147.73 78.8637Z" fill="black"/>
+<path d="M93.985 113.97L108.103 117.434L119.099 107.241" stroke="black" stroke-width="5" stroke-linecap="round"/>
+</g>
+<defs>
+<filter id="filter0_i_7_217" x="0" y="0" width="200" height="204" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_7_217"/>
+</filter>
+</defs>
+</svg>
